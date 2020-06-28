@@ -9,4 +9,4 @@
 * 模型：决策树，逻辑回归，线性回归，卷积神经网络（CNN）。
 * 注意：项目的预测效果高度依赖于数据集的无异常值，高质量程度。
 * 最终效果：
-![](/project3.png)
+![](https://github.com/hexiantao138/William-He-Project_Portfolio/blob/master/project3.png)
