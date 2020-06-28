@@ -10,3 +10,5 @@
 * 注意：项目的预测效果高度依赖于数据集的无异常值，高质量程度。
 * 最终效果：
 ![](https://github.com/hexiantao138/William-He-Project_Portfolio/blob/master/project3.png)
+* 模型比较：
+![](/project4%20model_evaluare.png)
