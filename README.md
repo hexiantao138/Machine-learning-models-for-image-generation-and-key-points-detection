@@ -2,7 +2,7 @@
 
 * 项目过程：
 ![](/project4.png)
-* 数据集链接：[此项目页中的img.npy,](https://github.com/hexiantao138/Machine-learning-models-for-image-generation-and-key-points-detection)
+* 数据集链接：[此项目页中的imgs1.npy,imgs2.npy,kpts1.npy,kpts3.npy](https://github.com/hexiantao138/Machine-learning-models-for-image-generation-and-key-points-detection)
 * 项目描述：此项目可分为两大类：1.根据人体轮廓图自动识别特征点：肩点，腰点，臀点，足点，胯点。2.根据人体特征点自动画出人体轮廓。
 * 图像数据识别与处理项目
 * 工具：Python，scikit-learn, OpenCV, Matplotlib, Numpy, Pandas。
